@@ -1,0 +1,88 @@
+body {
+	background-color: #ebeaf0;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+}
+h1 {
+	color: #41d54b;
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 5px;
+
+}
+header {
+      color: #ca210b;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      padding: 20px 20px 20px 30px;
+		margin: 0px 100px 20px 100px;
+
+}
+#logo {
+	float: left;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+h2 {font-style: italic;
+	text-decoration-line: underline;
+	font-size: 25px;
+	margin-left: 20px;
+
+}
+
+#red {
+background-color: #e78a9c;
+padding: 20px 20px 20px 30px;
+margin: 5px 100px 0px 100px;
+font-weight: bold;
+
+}
+#yellow {
+	background-color: #e6f47b;
+	padding: 20px 20px 20px 30px;
+	margin: 0px 100px 0px 100px;
+}
+#green {
+	background-color: #a9f1a8;
+	padding: 20px 20px 20px 30px;
+	margin: 0px 100px 0px 100px;
+}
+
+th, td {
+	border: 2px solid black;
+    padding: 10px;
+      
+}
+table {
+	border: 2px brown;
+	margin: 0 auto 0 auto;
+	border-collapse: collapse;
+	margin: 20px 20px 10px 20px;
+	margin-top: 20px;
+}
+img {
+	padding: 10px 5px 0px 20px;
+}
+p {
+	margin-left: 20px;
+}
+
+form {
+	margin-left: 20px;
+	line-height: 1.6em;
+}
+button {
+	background-color: #24664a;
+	font-size: 20px;
+	color: white;
+	margin: 20px 30px 10px 25px;
+	width: 150px;
+	height: 50px;
+}
+   
+
+
+
